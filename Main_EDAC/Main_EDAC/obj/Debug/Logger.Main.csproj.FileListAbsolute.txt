@@ -94,3 +94,6 @@ D:\Turbo_EDAC_Code_OLD\Main_EDAC\Main_EDAC\obj\Debug\Logger.Main.csprojResolveAs
 E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
 E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
 E:\New folder\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
+C:\Users\VKK-214\Documents\GitHub\Turbo-Edac\Main_EDAC\Main_EDAC\bin\Debug\Main_EDAC.exe.config
+C:\Users\VKK-214\Documents\GitHub\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.exe
+C:\Users\VKK-214\Documents\GitHub\Turbo-Edac\Main_EDAC\Main_EDAC\obj\Debug\Main_EDAC.pdb
